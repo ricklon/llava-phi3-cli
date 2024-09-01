@@ -10,6 +10,7 @@ packages = [{include = "llava_phi3_cli"}]
 python = "^3.9"
 click = "^8.1.7"
 ollama = "^0.3.2"
+pillow = "^10.4.0"
 
 
 [build-system]
